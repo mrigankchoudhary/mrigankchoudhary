@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mrigank Choudhary</h1>
-<h3 align="center">A passionate Consultant Amd Product Manager from India.</h3>
+<h3 align="center">A passionate Consultant And Product Manager from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrigankchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="mrigankchoudhary" /> </p>
 
