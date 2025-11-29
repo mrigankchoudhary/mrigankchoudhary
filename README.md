@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrigankchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="mrigankchoudhary" /> </p>
 
-- 🔭 I’m currently working on [T-Shirt Store](https://github.com/mrigankchoudhary/Tshirt-Store-Frontend)
+- 🔭 I’m currently working on https://shop-brahman-nyas.vercel.app/
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on [T-Shirt Store](https://github.com/mrigankchoudhary/Tshirt-Store-Backend)
-
 - 👨‍💻 All of my projects are available at [https://mrigankchoudhary.github.io](https://mrigankchoudhary.github.io)
 
-- 💬 Ask me about **ReactJS, ExpressJS, NodeJS, WebDev in general**
+- 💬 Ask me about **ReactJS, ExpressJS, NodeJS, WebDev, Compliances, Controls, Audit in general**
 
 - 📫 How to reach me **mrigankchoudhary2001@gmail.com**
 
