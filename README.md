@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on https://shop-brahman-nyas.vercel.app/
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **IT Audit, Compliances, Controls **
 
 - 👨‍💻 All of my projects are available at [https://mrigankchoudhary.github.io](https://mrigankchoudhary.github.io)
 
